@@ -1,11 +1,3 @@
-# Dev Overflow
-
-![demo](https://i.ibb.co/x7FChRP/Thumbnail.jpg)
-
-## 🌐 Live Demo
-
-Explore the live demonstration of the project: [nextjs14-devoverflow](https://devflow-davidevignozzi.vercel.app/)
-
 ## Description
 
 **DevOverflow** is a complex Q&A platform for developers to ask questions, share knowledge, and learn from each other.
@@ -31,7 +23,3 @@ Explore the live demonstration of the project: [nextjs14-devoverflow](https://de
 - [Vercel](https://vercel.com/): Vercel is a cloud platform for frontend developers, providing the frameworks, workflows, and infrastructure to build a faster, more personalized Web.
 
 [![Technologies Used](https://skillicons.dev/icons?i=nextjs,ts,tailwind,mongodb,vercel)](https://skillicons.dev)
-
-## 🚨 Course
-
-https://www.jsmastery.pro/ultimate-next-course
